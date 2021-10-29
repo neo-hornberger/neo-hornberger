@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World :earth_africa:
 
 <!--
 **neo-hornberger/neo-hornberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
